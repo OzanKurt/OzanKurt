@@ -29,17 +29,27 @@
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
+![Slim](https://img.shields.io/badge/-Slim-000?&logo=Slim)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?&logo=Alpine.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Web3](https://img.shields.io/badge/-Web3.js-000?&logo=web3.js)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![Travis-CI](https://img.shields.io/badge/-Travis_CI-000?&logo=travis-ci)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
