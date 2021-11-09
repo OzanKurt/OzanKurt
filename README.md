@@ -13,8 +13,8 @@
 [![GitHub](https://img.shields.io/badge/Github-161414?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OzanKurt)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozankurt/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0zankurt)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-f48225?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://ozankurt.com)
-[![Website](https://img.shields.io/badge/My_Website-ff4444?style=for-the-badge)](https://stackoverflow.com/users/3263836/ozan-kurt)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-f48225?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3263836/ozan-kurt)
+[![Website](https://img.shields.io/badge/My_Website-ff4444?style=for-the-badge)](https://ozankurt.com)
 
 ### Languages
 
