@@ -5,7 +5,7 @@
 ### I'm a Full-Stack Developer
 
 - I am a self-thought programmer with huge interest in backend programming.
-- I am currently working with [hrConnectum Gmbh](https://hrconnectum.com) as Senior Software Developer.
+- I am currently working with [hrConnectum Gmbh](https://hrconnectum.com) as Senior Software Developer and with [4global](https://4global.com) as Senior Software Consultant.
 - What is the best way to contact me? [StackOverflow](https://stackoverflow.com/users/3263836/ozan-kurt)
 
 ### My Profiles
