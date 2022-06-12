@@ -1,4 +1,4 @@
-# Hello there, I'm Ozan <img width="30px" src="https://user-images.githubusercontent.com/8682003/138277606-d44f3aa7-7617-4454-8aae-3f66ed40bd2e.gif" />
+# Hello there, I'm Ozan <img src="https://user-images.githubusercontent.com/8682003/173229939-4db33dde-fc5f-4381-b5dc-ed2f5aaa844b.png" style="height: 50px;" />
 
 [<img src="https://user-images.githubusercontent.com/8682003/138275495-055c0838-9b37-4d28-abdd-d56d296ff448.png" alt="" style="height: 100px;" align="right">](https://ozankurt.com/)
 
