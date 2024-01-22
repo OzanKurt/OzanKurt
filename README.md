@@ -56,5 +56,7 @@
 ### My Stats
 
 <a href="https://ozankurt.com/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ozankurt&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=OzanKurt&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" />
 </a>
+
+![OzanKurt's Stats](https://github-readme-stats.vercel.app/api?username=OzanKurt&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite)
