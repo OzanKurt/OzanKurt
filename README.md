@@ -5,8 +5,9 @@
 ### I'm a Full-Stack Developer
 
 - I am a self-thought programmer with huge interest in backend programming.
-- I am currently working with [hrConnectum Gmbh](https://hrconnectum.com) as Senior Software Developer and with [4global](https://4global.com) as Senior Software Consultant.
-- What is the best way to contact me? [StackOverflow](https://stackoverflow.com/users/3263836/ozan-kurt)
+- - I am currently working with [hrConnectum Gmbh](https://hrconnectum.com) as Senior Software Developer and with [4global](https://4global.com) as Senior Software Consultant.
+- I am the CTO & Co-Founder of [Epic Algorithms](https://epicalgorithms.com/).
+- What is the best way to contact me? [LinkedIn](https://www.linkedin.com/in/ozankurt/)
 
 ### My Profiles
 
